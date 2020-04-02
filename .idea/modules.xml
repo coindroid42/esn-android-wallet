@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-wallet-escudonavacense.iml" filepath="$PROJECT_DIR$/android-wallet-escudonavacense.iml" group="android-wallet-escudonavacense" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" group="android-wallet-escudonavacense/core" />
+      <module fileurl="file://$PROJECT_DIR$/wallet/wallet.iml" filepath="$PROJECT_DIR$/wallet/wallet.iml" group="android-wallet-escudonavacense/wallet" />
+    </modules>
+  </component>
+</project>
